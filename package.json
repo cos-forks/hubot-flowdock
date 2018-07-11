@@ -44,7 +44,7 @@
     "email": "team@flowdock.com"
   },
   "dependencies": {
-    "flowdock": "^0.9.1",
+    "flowdock": "https://github.com/cos-forks/node-flowdock#feature\/testing",
     "parent-require": "^1.0.0"
   },
   "devDependencies": {
